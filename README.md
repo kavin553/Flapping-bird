@@ -18,8 +18,7 @@
 <p align="center">
   <img src="images/playing.png" width="600px">
 </p>
-
----
+🔗 **ENJOY😍TO🥰PLAY🎮GAME:**  https://flapping-bird-ten.vercel.app/
 
 ## 🎯 Features
 
